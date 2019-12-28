@@ -26,7 +26,7 @@ A user is said to have churned if there is an event “Cancellation Confirmation
 ## Files
 Sprakify.ipynb is the main notebook for the project and contains all the codes starting from importing libraries to data analysis, EDA, feature generation, modeling, hyper parameter tuning, model performance evaluation to improvements and final conclusion.
 
-## Result
+## Results
 As part of the modeling exercise we implemented 5 models: Logistic Regression, Decision Trees, RandomForest, GBT and Linear SVM and utilized model evaluation metrics — Accuracy and F1 Score to identify the best model from the 5.<br>
 The best model based on the evaluation came out to be the Logistic Regression model. On which, we used cross validation and grid search to refine the model.<br>
 The best model had an Accuracy of 0.78 and F1 score of 0.76.<br>
