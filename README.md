@@ -36,3 +36,7 @@ The top 5 important features predicting the likelihood of a user to churn are:
  - Maximum Session Time
  - No. of Songs added to the Playlist
  - Total Listening Time
+ 
+ 
+### Link to the Medium Blog Post:
+https://medium.com/@abhijeetshrivastava08/sparkify-how-i-detect-your-user-churn-886d82ad110c
